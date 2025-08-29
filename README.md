@@ -57,7 +57,7 @@ graph LR
 
 <div align="left">
 
-**LinkedIn** [abdiel-vega](https://www.linkedin.com/in/abdiel-vega2004)  
+**LinkedIn** [abdiel-vega2004](https://www.linkedin.com/in/abdiel-vega2004)  
 **Email:** abdiel.vega@outlook.com
 **Phone:** (787)-949-5751
 
