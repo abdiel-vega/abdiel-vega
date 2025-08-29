@@ -55,9 +55,9 @@ graph LR
 
 ## Connect with Me 🤝
 
-<div align="center">
+<div align="left">
 
-**LinkedIn** [linkedin.com/in/abdiel-vega2004](https://www.linkedin.com/in/abdiel-vega2004)  
+**LinkedIn** [abdiel-vega](https://www.linkedin.com/in/abdiel-vega2004)  
 **Email:** abdiel.vega@outlook.com
 **Phone:** (787)-949-5751
 
