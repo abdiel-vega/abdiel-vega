@@ -18,9 +18,6 @@
 - 🍽️ **i_Cooked Recipe Website** - Full-stack application with secure authentication
 - 🏠 **Home Lab** - Virtual environment for cybersecurity learning (in progress)
 
-## 📊 GitHub Stats
-![Abdiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdiel-vega&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdiel-vega2004/)
 - 📧 [Email](abdiel.vega@outlook.com)
