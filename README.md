@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**abdiel-vega/abdiel-vega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Third-year Computer Science student** at Interamerican University of Puerto Rico  
+🔐 **Aspiring Cybersecurity Professional** | Currently pursuing CompTIA Security+  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Working On
+- 📚 CompTIA Security+ Certification (Expected October 2024)
+- 🖥️ Building a Virtual Home Lab for cybersecurity practice
+- 🐧 Mastering Linux system administration
+- 🌐 Developing secure web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+Languages: JavaScript/TypeScript, HTML, CSS, Python, SQL
+Tools: VirtualBox, Git, VS Code, Linux Terminal
+Learning: Network Security, Penetration Testing, Incident Response
+
+## 🔬 Featured Projects
+- 🍽️ **i_Cooked Recipe Website** - Full-stack application with secure authentication
+- 🏠 **Home Lab** - Virtual environment for cybersecurity learning (in progress)
+
+## 📊 GitHub Stats
+![Abdiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdiel-vega&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdiel-vega2004/)
+- 📧 [Email](abdiel.vega@outlook.com)
+- 🌍 Based in Puerto Rico | Open to Work!
