@@ -10,9 +10,9 @@
 - 🌐 Developing secure web applications
 
 ## 🛠️ Technical Skills
-Languages: JavaScript/TypeScript, HTML, CSS, Python, SQL
-Tools: VirtualBox, Git, VS Code, Linux Terminal
-Learning: Network Security, Penetration Testing, Incident Response
+- **Languages**: JavaScript/TypeScript, HTML, CSS, Python, SQL
+- **Tools**: VirtualBox, Git, VS Code, Linux Terminal
+- **Learning**: Network Security, Penetration Testing, Incident Response
 
 ## 🔬 Featured Projects
 - 🍽️ **i_Cooked Recipe Website** - Full-stack application with secure authentication
