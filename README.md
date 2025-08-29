@@ -1,8 +1,8 @@
-# Hi there, I'm Abdiel Vega
+# Hi there 👋 
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Cybersecurity+Professional;CompTIA+Security%2B+Candidate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Future+SOC+Analyst;Cybersecurity+Enthusiast;CompTIA+Security%2B+in+Progress)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,20 +53,12 @@ graph LR
     D --> E
 ```
 
-## Connect
+## Connect with Me 🤝
 
 <div align="center">
 
-**LinkedIn:** [linkedin.com/in/abdiel-vega2004](https://www.linkedin.com/in/abdiel-vega2004)  
-**Email:** in/abdiel-vega2004  
-**GitHub:** [github.com/abdiel-vega](https://github.com/abdiel-vega)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdiel-vega&color=6366f1&style=flat-square&label=Profile+Views)
+**LinkedIn** [linkedin.com/in/abdiel-vega2004](https://www.linkedin.com/in/abdiel-vega2004)  
+**Email:** abdiel.vega@outlook.com
+**Phone:** (787)-949-5751
 
 </div>
