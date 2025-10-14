@@ -51,7 +51,7 @@ Developed a React-based food recipe application featuring:
 - Security Operations & User Account Management
 - POS Systems & CRM Database Management
 
-**Languages:** English & Spanish (Native/Bilingual)
+**Languages:** English & Spanish (Bilingual/Native)
 
 ---
 
