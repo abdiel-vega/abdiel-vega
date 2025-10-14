@@ -1,58 +1,84 @@
-# Hi there 👋 
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Future+SOC+Analyst;Cybersecurity+Enthusiast;CompTIA+Security%2B+in+Progress)](https://git.io/typing-svg)
-
-</div>
-
-## About Me
-
-Third-year Computer Science student at Interamerican University of Puerto Rico, currently pursuing CompTIA Security+ certification. Aspiring cybersecurity professional with focus on network security, penetration testing, and incident response. Based in Puerto Rico and open to work opportunities.
-
-## Current Focus
-
-```yaml
-Learning & Certification:
-  - CompTIA Security+ Certification (Expected October 2024)
-  - Building Virtual Home Lab for cybersecurity practice
-  - Linux system administration
-  - Secure web application development
-```
-
-## Tech Stack & Tools
+# Abdiel Y. Vega Velez
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Computer Science Student | Aspiring Cybersecurity Professional**
 
-### Tools & Technologies
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+*Building secure systems, one project at a time* 🔐
 
 </div>
 
-## Certifications & Learning Path
+---
 
-```mermaid
-graph LR
-    A[CS Student] --> B[CompTIA Security+]
-    B --> C[Penetration Testing]
-    B --> D[SOC Analyst]
-    C --> E[Cybersecurity Professional]
-    D --> E
-```
+## 👨‍💻 About Me
 
+Third-year Computer Science student at Inter-American University of Puerto Rico with a passion for cybersecurity and network security. Currently pursuing **CompTIA Security+** certification (Expected November 2025) while gaining hands-on experience through personal projects and home lab environments.
+
+I'm seeking **intern or entry-level opportunities** in IT Support, SOC Analysis, Cybersecurity, or Network/System Administration where I can apply my technical knowledge and continue growing professionally.
+
+---
+
+## 🚀 Current Projects
+
+### Virtual Home Lab Environment
+Building a comprehensive virtual environment using VirtualBox for security testing and learning:
+- **Windows Server** configured as domain controller with Active Directory
+- **DHCP server** configuration for new clients (in progress)
+- Next steps: Installing security and monitoring tools, penetration testing practice
+
+### Full-Stack Web App
+Developed a React-based food recipe application featuring:
+- Secure user authentication system
+- Password security best practices
+- Session management implementation
+- Version control with Git
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Operating Systems:** Windows, Linux (Ubuntu)
+
+**Web Development:** JavaScript, TypeScript, React, HTML5, CSS3, Python, SQL
+
+**Tools & Platforms:** VirtualBox, Git, VS Code, Active Directory, Server Manager
+
+**Currently Developing:**
+- Network Security & Penetration Testing
+- IT Troubleshooting & Incident Response
+- Security Operations & User Account Management
+- POS Systems & CRM Database Management
+
+**Languages:** English & Spanish (Native/Bilingual)
+
+---
+
+## 📚 Education & Certifications
+
+**Inter-American University of Puerto Rico - Metro Campus**  
+*Bachelor of Science, Computer Science* | 2023 - 2027
+
+**CompTIA Security+** *(In Progress - Expected November 2025)*
+
+---
+
+## 📫 Let's Connect
+
+I'm always excited to connect with cybersecurity professionals and fellow learners!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdiel-vega2004)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdiel-vega)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdiel.vega@outlook.com)
+
+**📍** Trujillo Alto, Puerto Rico | **📞** (787) 949-5751
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to create it."*
+
+</div>
 ## Connect with Me 🤝
 
 <div align="left">
