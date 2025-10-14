@@ -4,13 +4,13 @@
 
 **Computer Science Student | Aspiring Cybersecurity Professional**
 
-*Building secure systems, one project at a time* 🔐
+*One project at a time* 🥀
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Third-year Computer Science student at Inter-American University of Puerto Rico with a passion for cybersecurity and network security. Currently pursuing **CompTIA Security+** certification (Expected November 2025) while gaining hands-on experience through personal projects and home lab environments.
 
@@ -18,7 +18,7 @@ I'm seeking **intern or entry-level opportunities** in IT Support, SOC Analysis,
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 ### Virtual Home Lab Environment
 Building a comprehensive virtual environment using VirtualBox for security testing and learning:
@@ -26,7 +26,7 @@ Building a comprehensive virtual environment using VirtualBox for security testi
 - **DHCP server** configuration for new clients (in progress)
 - Next steps: Installing security and monitoring tools, penetration testing practice
 
-### Full-Stack Web App
+### Full-Stack Web App | iCooked
 Developed a React-based food recipe application featuring:
 - Secure user authentication system
 - Password security best practices
@@ -35,7 +35,7 @@ Developed a React-based food recipe application featuring:
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Operating Systems:** Windows, Linux (Ubuntu)
 
@@ -53,7 +53,7 @@ Developed a React-based food recipe application featuring:
 
 ---
 
-## 📚 Education & Certifications
+## Education & Certifications
 
 **Inter-American University of Puerto Rico - Metro Campus**  
 *Bachelor of Science, Computer Science* | 2023 - 2027
@@ -62,7 +62,7 @@ Developed a React-based food recipe application featuring:
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 I'm always excited to connect with cybersecurity professionals and fellow learners!
 
@@ -76,10 +76,7 @@ I'm always excited to connect with cybersecurity professionals and fellow learne
 
 <div align="center">
 
-*"The best way to predict the future is to create it."*
-
 </div>
-## Connect with Me 🤝
 
 <div align="left">
 
