@@ -1,12 +1,11 @@
-
-
 <div align="center">
-  
-# Abdiel Y. Vega Velez
-  
-**Computer Science Student | Aspiring Cybersecurity Professional**
 
-*One project at a time* 🥀
+---
+# Abdiel Y Vega Velez
+  
+**cs student • developer • cloud engineer**
+
+*one project at a time 🥀*
 
 </div>
 
@@ -14,76 +13,77 @@
 
 ## About Me
 
-Third-year Computer Science student at Inter-American University of Puerto Rico with a passion for cybersecurity and network security. Currently pursuing **CompTIA Security+** certification (Expected November 2025) while gaining hands-on experience through personal projects and home lab environments.
+Hello! I'm a third-year Computer Science student at Inter-American University of Puerto Rico, transitioning into cloud engineering with a focus on AWS and containerization.
 
-I'm seeking **intern or entry-level opportunities** in IT Support, SOC Analysis, Cybersecurity, or Network/System Administration where I can apply my technical knowledge and continue growing professionally.
+Currently building projects using AWS and Docker while learning along the way.
 
----
-
-## Current Projects
-
-### Virtual Home Lab Environment
-Building a comprehensive virtual environment using VirtualBox for security testing and learning:
-- **Windows Server** configured as domain controller with Active Directory
-- **DHCP server** configuration for new clients (in progress)
-- Next steps: Installing security and monitoring tools, penetration testing practice
-
-### Full-Stack Web App | iCooked
-Developed a React-based food recipe application featuring:
-- Secure user authentication system
-- Password security best practices
-- Session management implementation
-- Version control with Git
+_**seeking opportunities** in cloud-related entry-level or internship roles._
 
 ---
 
-## Skills & Technologies
+## Projects
 
-**Operating Systems:** Windows, Linux (Ubuntu)
+### [iCooked - Food Recipe Website](https://icooked.vercel.app/)
+Complete food recipe web application leveraging the Spoonacular API. Features secure user authentication, database integration for recipe storage, recipe search and filtering, shopping list generator, and interactive recipe viewing.
 
-**Web Development:** JavaScript, TypeScript, React, HTML5, CSS3, Python, SQL
+**Tech Stack:** HTML • CSS • TypeScript • React • Next.js • Supabase • API
 
-**Tools & Platforms:** VirtualBox, Git, VS Code, Active Directory, Server Manager
+🔗 [Live Demo](https://icooked.vercel.app/) | [GitHub](https://github.com/abdiel-vega/i_Cooked)
 
-**Currently Developing:**
-- Network Security & Penetration Testing
-- IT Troubleshooting & Incident Response
-- Security Operations & User Account Management
-- POS Systems & CRM Database Management
+### Portfolio Website
+You're looking at the source! Personal portfolio website hosted on AWS using containerization with Docker. Demonstrating cloud infrastructure deployment, container orchestration, and web development skills.
 
-**Languages:** English & Spanish (Bilingual/Native)
+**Tech Stack:** AWS • Docker • HTML • CSS • JavaScript • Linux
+
+🔗 [Documentation](https://github.com/abdiel-vega/portfolio)
 
 ---
 
-## Education & Certifications
+## Skills
 
-**Inter-American University of Puerto Rico - Metro Campus**  
-*Bachelor of Science, Computer Science* | 2023 - 2027
+**Amazon Web Services**  
+`EC2` `ECR` `S3` `VPC` `IAM` `Lambda`
 
-**CompTIA Security+** *(In Progress - Expected November 2025)*
+**Languages**  
+`HTML` `CSS` `JavaScript` `TypeScript` `Python`
+
+**Development**  
+`React` `Next.js` `TailwindCSS` `Supabase` `PostgreSQL` `MySQL`
+
+**Tools**  
+`Git` `VS Code` `Linux` `VirtualBox` `Docker` `Obsidian`
+
+**Knowledge Foundation**  
+`Network Fundamentals` `Network Cloud Fundamentals` `Security Best Practices`
+
+---
+
+## Education
+
+**Inter-American University of Puerto Rico** | *Metro Campus*  
+Bachelor's Degree in Computer Science  
+📅 August 2023 - May 2027
+
+### Certifications
+
+- **AWS Certified Cloud Practitioner** — *In Progress (Expected November 2025)*
+- **AWS Certified Solutions Architect - Associate** — *Planned (After Cloud Practitioner)*
+- **CompTIA Security+** — *Planned*
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always excited to connect with cybersecurity professionals and fellow learners!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdiel-vega2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdiel-vega2004)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdiel-vega)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdiel.vega@outlook.com)
 
-**📍** Trujillo Alto, Puerto Rico | **📞** (787) 949-5751
+📧 abdiel.vega@outlook.com  
+📞 (787) 949 5751
+📍 San Juan, Puerto Rico
 
 ---
 
 <div align="center">
-
-</div>
-
-<div align="left">
-
-**LinkedIn** [abdiel-vega2004](https://www.linkedin.com/in/abdiel-vega2004)  
-**Email:** abdiel.vega@outlook.com  
-**Phone:** (787)-949-5751  
 
 </div>
