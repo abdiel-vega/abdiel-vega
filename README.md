@@ -79,7 +79,7 @@ Bachelor's Degree in Computer Science
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdiel.vega@outlook.com)
 
 📧 abdiel.vega@outlook.com  
-📞 (787) 949 5751
+📞 (787) 949 5751  
 📍 San Juan, Puerto Rico
 
 ---
