@@ -62,7 +62,7 @@ You're looking at the source! Personal portfolio website hosted on AWS using con
 
 **Inter-American University of Puerto Rico** | *Metro Campus*  
 Bachelor's Degree in Computer Science  
-📅 August 2023 - May 2027
+August 2023 - May 2027
 
 ### Certifications
 
@@ -72,7 +72,7 @@ Bachelor's Degree in Computer Science
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdiel-vega2004)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdiel-vega)
