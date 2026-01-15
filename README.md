@@ -37,7 +37,7 @@ Recently participated in the U.S. Department of State's VDP, identifying critica
 
 **Tech Stack:** `Burp Suite` `OWASP` `Kali Linux` `API Testing` `Web App Security`
 
-🔗 [Write-up](dos-vdp-report-censored-write-up.pdf)
+🔗 [Write-up](vdps/department-of-state/dos-vdp-report-censored-write-up.pdf)
 
 <br>
 
