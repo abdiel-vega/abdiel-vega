@@ -65,7 +65,7 @@ A complete web application featuring secure user registration, database integrat
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Vulnerability Research & Security**
 <br>
