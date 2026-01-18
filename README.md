@@ -61,6 +61,8 @@ A complete web application featuring secure user registration, database integrat
 
 🔗 [Live Demo](https://icooked.vercel.app/) | [GitHub](https://github.com/abdiel-vega/i_Cooked)
 
+<br>
+
 ---
 
 ## 🛠 Skills
