@@ -20,9 +20,6 @@ You're looking at a **Junior Computer Science student** at Inter-American Univer
 
 Currently learning web security and vulnerability research. I recently participated in the **U.S. Department of State’s Vulnerability Disclosure Program (VDP)**, where I **identified a High-Severity (CVSS 8.1) Broken Access Control issue that exposed PII for over 5,000 individuals**. Quite the motivation boost, so I'll continue doing this for now but always open for any opportunity.
 
-
-_**Seeking opportunities** in cybersecurity, application security, or cloud-related roles._
-
 ---
 
 ## Projects & Research
