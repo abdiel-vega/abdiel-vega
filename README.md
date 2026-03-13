@@ -92,6 +92,8 @@ Developed a complete web application featuring:
 
 🔗 [Repository](https://github.com/abdiel-vega/i_Cooked) | [Live Demo](https://icooked.vercel.app/)
 
+<br>
+
 ---
 
 ## Skills
