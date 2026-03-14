@@ -142,7 +142,7 @@ Bachelor's Degree in Computer Science - GPA: 3.45
 
 **Open to software engineering, cloud/DevOps, AppSec, or Python internship opportunities - Summer/Fall 2026.**
 <br>
-Bilingual (English / Spanish) · Remote-friendly · Puerto Rico
+Bilingual (English / Spanish) · Puerto Rico
 
 <br>
 
